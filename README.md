@@ -19,7 +19,7 @@ The Watchlist API is a Django-based project that provides endpoints for managing
 
 - **Django**: High-level Python web framework that encourages rapid development.
 - **Django REST framework**: Powerful and flexible toolkit for building Web APIs.
-- **PostgreSQL**: Advanced SQL database used for data storage.
+- **SQLite**: Database used for data storage.
 - **JWT (JSON Web Tokens)**: Secure token-based authentication mechanism.
 - **Django Filters**: Simplifies adding filters to Django REST framework views.
 - **Throttling**: Implements rate limiting to prevent abuse of API endpoints.
