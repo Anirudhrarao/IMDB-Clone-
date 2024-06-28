@@ -118,3 +118,7 @@ Throttling is implemented to control the rate of requests:
 Run the test suite to ensure everything is working correctly:
 ```bash
 python manage.py test
+
+
+### Contributing
+Contributions are welcome! Please submit a pull request or open an issue to discuss what you would like to change.
